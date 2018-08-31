@@ -8,3 +8,9 @@ Trying to know how to create a column, row dynamically, helping colleague to fig
 (Yesterday, we just had code review.)
 
 Take some notes.
+
+## Telerik.Reporting
+
+Using the latest trial version __R2 2018__
+
+Documantation and API: [link](https://docs.telerik.com/reporting/overview)
